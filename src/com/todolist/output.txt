@@ -1,4 +1,4 @@
-// open the terminal and write the below statements to run the program
+// open the terminal and write the below statements to run the project
 
 // statement 1 : javac -d out -cp lib/jcalendar-1.4.jar src/com/todolist/*.java
 
