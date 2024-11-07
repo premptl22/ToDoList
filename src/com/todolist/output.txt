@@ -1,0 +1,5 @@
+// open the terminal and write the below statements to run the program
+
+// statement 1 : javac -d out -cp lib/jcalendar-1.4.jar src/com/todolist/*.java
+
+// statement 2 : java -cp "out;lib/jcalendar-1.4.jar" com.todolist.ToDoListApp
